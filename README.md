@@ -9,10 +9,10 @@ Audio Lip-Synced Video Generation (IEEE Published)
 
 ## 📸 Screenshots
 
-![Demo Screenshot 1](screenshots/demo 1.png)  
+![Demo Screenshot 1](screenshots/demo1.png)  
 *Figure 1: Generated lip-synced frame showing Mona Lisa with realistic mouth movements.*
 
-![Demo Screenshot 2](screenshots/demo 2.png)  
+![Demo Screenshot 2](screenshots/demo2.png)  
 *Figure 2: Another frame demonstrating smooth lip transitions in sync with speech.*
 
 
